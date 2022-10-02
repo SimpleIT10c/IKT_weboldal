@@ -4,32 +4,52 @@ h1{
     text-align: center;
     margin-bottom: 0px;
 }
+
 body{
     background-color: rgba(54, 78, 38, 0.8)
 }
+
 #Lollogo{
     padding-bottom: 10px;
     padding-top: 10px;
     width: 500px;
 }
+
+.champ{
+    padding-bottom: 5px;
+    padding-top: 10px;
+    width: 500px;
+}
+
+figcaption{
+    text-align: center;
+    color: black;
+}
+
 h3{
     text-align: center;
     background-color: rgba(255, 255, 255, 0.4);
     margin-left: 35%;
     margin-right: 35%;
+    margin-top: 75px;
+    font-weight: bold;
 }
+
 p{
     background-color: rgba(255, 255, 255, 0.4);
     margin-left: 15%;
     margin-right: 15%;
-    
+    padding-left: 5px;
 }
+
 h4{
     text-align: center;
     background-color: rgba(255, 255, 255, 0.4);
     margin-left: 30%;
     margin-right: 30%;
+    margin-top: 25px;
 }
+
 .kepek{
     width: 10%;
     display: block;
@@ -37,12 +57,26 @@ h4{
     margin-right: auto;
     padding-bottom: 10px;
 }
+
 .list{
     background-color: rgba(255, 255, 255, 0.4);
-    margin-left: 45%;
-    margin-right: 45%;
+    margin-left: 32%;
+    margin-right: 32%;
     text-align: center;
     list-style: none;
     font-size: larger;
     font-weight: bold;
+    text-decoration: underline;
 }
+
+h3:first-child{
+    margin-top: 0px;
+}
+
+.lane{
+    color: black;
+}
+.lane:hover{
+    color: green;
+}
+
