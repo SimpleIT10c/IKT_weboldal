@@ -24,6 +24,7 @@ body{
 figcaption{
     text-align: center;
     color: black;
+    font-size: small;
 }
 
 h3{
@@ -48,6 +49,7 @@ h4{
     margin-left: 30%;
     margin-right: 30%;
     margin-top: 25px;
+    font-style: italic;
 }
 
 .kepek{
@@ -79,4 +81,18 @@ h3:first-child{
 .lane:hover{
     color: green;
 }
-
+#a161{
+    color:black;
+    font-weight: bold;
+    text-decoration:underline double;
+}
+td, th{
+    text-align: center;
+    padding: 5px;
+    margin: 5px;
+}
+table{
+    background-color: rgba(255, 255, 255, 0.4);
+    margin-right: 100px;
+    margin-left: 100px;
+}
