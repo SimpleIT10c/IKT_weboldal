@@ -1,0 +1,35 @@
+h1{
+    background-color: rgb(156, 1, 156);
+    text-align: center;
+    padding: 20px;
+}
+#logo{
+margin: auto;
+width: 1270px;
+}
+.img-thumbnail{
+    border-color: rgb(6, 6, 77)}
+
+
+
+#val{
+    background-color: rgb(211 211 211) ;
+    margin: 30px;
+}
+#cim{
+    background-color: rgb(220,220,220);
+}
+#club{
+    width: 300px;
+}
+#fej{
+    display: block;
+margin: auto;
+width:50%;
+height: 50% ;
+}
+p{
+    text-align: center;
+    padding-top: 30px;
+    
+}
