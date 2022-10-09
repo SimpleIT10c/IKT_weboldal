@@ -1,0 +1,52 @@
+h1{
+    background-color: grey;
+    text-align: center;
+    padding: 20px;
+    margin-bottom: 0px;
+}
+h4{
+    text-decoration: underline;
+    margin: 25px;
+    margin-left: 150px;
+    margin-top: 50px;
+    padding-top: 20px;
+}
+#elsotr{
+    width: 250px;
+}
+figure{
+    width: 250px;
+    float: right;
+    margin-right: 40px;
+    margin-left: 40px;
+    text-align: center;
+}
+body{
+    text-align: justify;
+    background-image: url(/Képek/TombRaider/background.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+#szoveg{
+    margin: 10px;
+    margin-left: 40px;
+    margin-top: 30px;
+    padding-bottom: 15px;
+}
+.behuz{
+    text-indent: 20px;
+}
+.cim{
+    font-size: 125%;
+    text-decoration: underline;
+    font-style: italic;
+}
+#hatter{
+    background-color: gray;
+    margin-left: 190px;
+    margin-right: 190px;
+}
+table, tr, td{
+    border: 2px solid black;
+    border-collapse: collapse;
+}
