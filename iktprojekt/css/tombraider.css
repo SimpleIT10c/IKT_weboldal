@@ -7,9 +7,9 @@ h1{
 h4{
     text-decoration: underline;
     margin: 25px;
-    margin-left: 150px;
     margin-top: 50px;
     padding-top: 20px;
+    text-align: center;
 }
 #kepek{
     width: 250px;
@@ -17,7 +17,6 @@ h4{
 figure{
     width: 250px;
     float: right;
-    margin-right: 40px;
     margin-left: 40px;
     text-align: center;
 }
@@ -32,6 +31,7 @@ body{
     margin-left: 40px;
     margin-top: 30px;
     padding-bottom: 15px;
+    margin-right: 40px;
 }
 .behuz{
     text-indent: 20px;
@@ -42,11 +42,13 @@ body{
     font-style: italic;
 }
 #hatter{
-    background-color: gray;
+    background-color: rgba(128, 128, 128, 0.84);
     margin-left: 190px;
     margin-right: 190px;
 }
-table, tr, td{
+table, tr, td, th{
     border: 2px solid black;
     border-collapse: collapse;
+    text-align: center;
+    padding: 5px;
 }
